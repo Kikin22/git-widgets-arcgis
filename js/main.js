@@ -52,6 +52,7 @@ require([
     // Step 3: Add the widget to the view's UI, specify the docking position as well
     view.ui.add(legend, "top-right");
     view.ui.add(swipe);
+    console.log("Aqui tenia q enviar un mensaje para probar git ");
 
   });
 });
